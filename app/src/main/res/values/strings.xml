@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mobi</string>
+
+    <!-- Please put your application's app ID and keys here -->
+    <string name="parse_app_id">8T5SZi398zyc3cDHqBM6cJwZZUNrVLqENmnKSdMZ</string>
+    <string name="parse_client_key">zdMU0vkOzwkyeimTTSUtEfTsS7jlQHdVwyqLIumr</string>
+    <string name="facebook_app_id">1630059943923162</string>
+
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to view your profile</string>
+    <string name="profile_login_button_label">Log in</string>
+
+    <string-array name="my_facebook_permissions">
+        <item>public_profile</item>
+        <item>user_friends</item>
+        <item>email</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
